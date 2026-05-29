@@ -1,4 +1,4 @@
-📊 # Dashboard de Vendas em Power BI
+📊 Dashboard de Vendas em Power BI
 
 📌 Sobre o Projeto
 
@@ -15,7 +15,7 @@ Ranking de clientes e categorias
 Indicadores de desempenho (KPIs)
 Segmentação de dados com filtros interativos
 
-##📊 Tecnologias e Ferramentas
+## 📊 Tecnologias e Ferramentas
 Power BI
 Power Query
 DAX
