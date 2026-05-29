@@ -42,8 +42,8 @@ Visualização de Dados e KPIs
 
 📷 Visual do Projeto
 
-(<img width="1198" height="681" alt="Captura de Tela (15)" src="https://github.com/user-attachments/assets/ef6f283c-fb5c-4b43-acc7-e07e0059663b" />
-)
+<img width="1198" height="681" alt="Captura de Tela (15)" src="https://github.com/user-attachments/assets/ef6f283c-fb5c-4b43-acc7-e07e0059663b" />
+
 
 
 👨‍💻 Autor
