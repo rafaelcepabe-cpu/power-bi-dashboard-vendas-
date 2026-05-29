@@ -1,12 +1,12 @@
-#📊 Dashboard de Vendas em Power BI
+📊 # Dashboard de Vendas em Power BI
 
-##📌 Sobre o Projeto
+📌 Sobre o Projeto
 
 Desenvolvimento de um dashboard de vendas utilizando Microsoft Power BI com foco em análise de dados e geração de insights estratégicos para apoio à tomada de decisão.
 
 O projeto foi criado para transformar dados brutos em informações visuais claras e objetivas, permitindo o acompanhamento de indicadores de desempenho comercial por meio de gráficos interativos, KPIs e filtros dinâmicos.
 
-##🚀 Principais Funcionalidades
+🚀 Principais Funcionalidades
 Monitoramento do faturamento total
 Análise da quantidade de vendas realizadas
 Identificação dos produtos mais vendidos
